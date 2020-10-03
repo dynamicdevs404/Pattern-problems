@@ -2,7 +2,7 @@
 main()
 {
     int p,m=4,j,k;
-    for(p=1;p<=5;p++)
+    for(p=1;p<=8;p++)
     {
         for(k=1;k<=m;k++)
             printf(" ");
