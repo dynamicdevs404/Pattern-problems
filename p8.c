@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 main()
 {
     int i,j,m=5,p,k,a=5,q=1;
